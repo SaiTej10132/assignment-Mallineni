@@ -14,3 +14,13 @@ The Amaravati Archaeological Museum is a museum located in Amaravati, a village 
 * amaravati stupam
 
 [AboutMeFile](AboutMe.md)
+---
+## Famous places in Andhra Pradesh
+Here im going mention famous places in Guntur
+| City | Important Location | Time to Spend |
+| --- | --- | --- |
+| Guntur | LodgeCenter | 5hrs |
+| Vijayawada | Benz Circle | 3hrs |
+| Vizag | Beach | 2hrs |
+| Guntur | Amaravati Capital | 5min |
+---
