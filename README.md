@@ -9,3 +9,6 @@ The Amaravati Archaeological Museum is a museum located in Amaravati, a village 
 3. And then in busstand we have to take the amaravathi bus which is available for every 2 hours in block number 24
 4. After arrival to amaravati bus stand we have to take an auto to museum which are available out side of the busstand 
 5. This is the way to reach the amaravati museum
+* Buddha statue
+* shiva temple
+* amaravati stupam
