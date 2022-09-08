@@ -24,3 +24,7 @@ Here im going mention famous places in AP
 | Vizag | Beach | 2hrs |
 | Guntur | Amaravati Capital | 5min |
 ---
+## Quotes
+> A writer is someone for whom writing is more difficult than it is for other people. *---Thomas Mann*
+
+> A good novel tells us the truth about its hero; but a bad novel tells us the truth about its author. *---G.K. Chesterton*
