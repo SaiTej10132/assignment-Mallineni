@@ -32,6 +32,8 @@ Here im going mention famous places in AP
 ## Code Snippet
 > Remove Duplicates from an Array in JavaScript
 [Stackoverflow](https://stackoverflow.com/questions/9229645/remove-duplicate-values-from-js-array)
+```
+
 const array = [1, 1, 1, 3, 3, 2, 2];
 
 // Method 1: Using a Set
@@ -46,5 +48,5 @@ const unique = array.reduce((result, element) => {
 const unique = array.filter((element, index) => {
   return array.indexOf(element) === index;
 });
-
+```
 [Sourcelink](https://css-tricks.com/snippets/javascript/remove-duplicates-from-an-array/)
